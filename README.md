@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td><a href="https://app.daily.dev/kishon"><img src="https://github.com/KishonShrill/KishonShrill/blob/main/devcard.svg" width="400" alt="Kishon Shrill's Dev Card"/></a></td>
     <td>
-      - 👋 Hi, I’m @KishonShrill
-      - 👀 I’m interested in ...
-      - 🌱 I’m currently learning ...
-      - 💞️ I’m looking to collaborate on ...
+      - 👋 Hi, I’m @KishonShrill<br>
+      - 👀 I’m interested in ...<br>
+      - 🌱 I’m currently learning ...<br>
+      - 💞️ I’m looking to collaborate on ...<br>
       - 📫 How to reach me ...
     </td>
   </tr>
