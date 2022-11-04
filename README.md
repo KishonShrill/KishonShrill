@@ -9,4 +9,4 @@ KishonShrill/KishonShrill is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/kishon"><img src="https://api.daily.dev/devcards/64e43604c02b4fe7b2f7158094dd3793.png?r=twv" width="400" alt="Kishon_Shrill's Dev Card"/></a>
+<a href="https://app.daily.dev/kishon"><img src="https://github.com/KishonShrill/KishonShrill/blob/master/devcard.svg" width="400" alt="Kishon Shrill's Dev Card"/></a>
