@@ -6,12 +6,8 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td><a href="https://app.daily.dev/kishon"><img src="https://github.com/KishonShrill/KishonShrill/blob/main/devcard.svg" width="400" alt="Kishon Shrill's Dev Card"/></a></td>
-    <!-- <td>
-      - 👋 Hi, I’m @KishonShrill<br>
-      - 👀 I’m interested in ...<br>
-      - 🌱 I’m currently learning ...<br>
-      - 💞️ I’m looking to collaborate on ...<br>
-      - 📫 How to reach me ...
-    </td> -->
+    <td>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishonShrill &theme=radical)
+    </td>
   </tr>
  </table>
