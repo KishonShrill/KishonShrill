@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: chriscentproduction.artist@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: chriscentlouisjune.pingol@g.msuiit.edu.ph<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/KishonShrill/KishonShrill/issues)
   
 </p>
