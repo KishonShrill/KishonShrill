@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <samp>
-<!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
+<!--     <a href="https://www.google.com/search?q=Kishon+Shrill">「 Google Me 」</a> -->
     <br>
     「 I am a learning full stack web application developer 」
     <br>
@@ -41,13 +41,15 @@ You can click the Preview link to take a look at your changes.
 <!-- About Section -->
 # About me
 <p>
+  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: chriscentproduction.artist@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/KishonShrill/KishonShrill/issues)
+  
 </p>
 
-## Use To Code
+## What I Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -69,4 +71,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/KishonShrill"><img alt="Kishon Shrills's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KishonShrill&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishonShrill&custom_title=Kishon%20Shrill's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
