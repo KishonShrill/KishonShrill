@@ -7,11 +7,10 @@ You can click the Preview link to take a look at your changes.
   Welcome to my Library!
 </h1>
 
-<!--
-<p align="center">
-  <a href="https://github.com/KishonShrill"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
--->
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22een4wptzxnhzstzufmtjyjq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22een4wptzxnhzstzufmtjyjq&redirect=true)
+<!-- <p align="center"></p> -->
+
 
 <p align="center"> 
   <samp>
