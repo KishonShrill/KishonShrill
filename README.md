@@ -6,8 +6,7 @@
 <p align="center">
     <a href="https://app.daily.dev/kishon">
         <img 
-            src="https://api.daily.dev/devcards/v2/bbVQVvF0P.png?type=default&r=qmm" 
-            width="356" 
+            src="https://api.daily.dev/devcards/v2/bbVQVvF0P.png?type=wide&r=rz8" 
             alt="Kishon_Shrill's Dev Card"/>
     </a>
 </p>
