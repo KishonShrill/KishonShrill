@@ -115,15 +115,15 @@ I spend an unreasonable amount of time customizing my workflow. Here is the gear
 
 ### 🧰 Daily Drivers
 
-- **Terminal:** Bash / Kitty
+- **Terminal:** Bash / [Kitty](https://github.com/kovidgoyal/kitty)
     
-- **Shell:** Zsh (with Oh-My-Zsh)
+- **Shell:** [Zsh (with Oh-My-Zsh)](https://ohmyz.sh/)
     
-- **Editor:** Neovim 💖
+- **Editor:** [Neovim](https://neovim.io/) 💖
     
-- **Browser:** Brave
+- **Browser:** [Brave](https://brave.com/download/)
     
-- **Self-Hosted Staples:** Docker
+- **Self-Hosted Staples:** [Docker](https://www.docker.com/)
     
 
 ### 🎨 Dotfiles
@@ -131,5 +131,5 @@ I spend an unreasonable amount of time customizing my workflow. Here is the gear
 Curious about my configs? I keep them all synced up and heavily documented (mostly). 👉 [**Check out my Dotfiles repository here!**](https://github.com/KishonShrill/personal-configs)
 
 <!-- FOOTER / GIF -->
-<div align="center"> <p>「 <i>Thanks for stopping by!</i> 」</p> <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUyZWEzZTVjYzE0ZmQyMWYyZjQ2NjQ2ZmYxMzhlZWQ2YjJkMzM4NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9ZDRTW/giphy.gif" width="200" alt="Pixel Art Campfire GIF" /> </div>
+<div align="center"> <p>「 <i>Thanks for stopping by!</i> 」</p> <img src="https://raw.githubusercontent.com/KishonShrill/KishonShrill/refs/heads/main/raging-campfire.gif" alt="Pixel Art Campfire GIF" /> </div>
 
