@@ -1,18 +1,15 @@
-<p align="center">
-    <a href="https://app.daily.dev/kishon">
-        <img 
-            src="https://api.daily.dev/devcards/v2/bbVQVvF0P.png?type=wide&r=rz8" 
-            alt="Kishon_Shrill's Dev Card"/>
-    </a>
+<!-- ABOUT ME SECTION -->
+<h1>## 👾 Who am I?</h1>
+<p align="center" width="300px">
+    <p>Hey there! 👋 I'm <b>KishonShrill</b>, a <b>Full Stack Developer / Tinkerer / Hobbyist</b> who loves breaking things just to learn how to put them back together.</p>
+    <p>When I'm not writing code, you can usually find me deep in the trenches of my homelab. I'm a huge fan of <b>self-hosting</b> my own services (because why rely on the cloud when you can own your data?) and I daily-drive <b>Linux</b> on both my desktop and laptop rig. 🐧💻</p>
 </p>
 
-<!-- ABOUT ME SECTION -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/KishonShrill/KishonShrill/refs/heads/main/raging-campfire.gif" width="300px" alt="Pixel Art Campfire GIF" />
+</p>
 
-## 👾 Who am I?
 
-Hey there! 👋 I'm **KishonShrill**, a **Full Stack Developer / Tinkerer / Hobbyist** who loves breaking things just to learn how to put them back together.
-
-When I'm not writing code, you can usually find me deep in the trenches of my homelab. I'm a huge fan of **self-hosting** my own services (because why rely on the cloud when you can own your data?) and I daily-drive **Linux** on both my desktop and laptop rig. 🐧💻
 
 <p align="center">
   <a href="https://chriscent.is-a.dev/" target="_blank">
@@ -33,9 +30,8 @@ When I'm not writing code, you can usually find me deep in the trenches of my ho
 
 ## 🛠️ What I'm Working On
 
-<table width="100%" style="border: none;"> <tr style="border: none;"> 
-    <!-- LEFT COLUMN: PROJECTS --> 
-    <td width="60%" valign="top" style="border: none;"> <h3>Recent Projects</h3> <ul> <li> 🚀 <b><a href="https://productprice-iligan.vercel.app/">Budget Buddy</a> - <a href="https://github.com/KishonShrill/iliganproductprice">Github</a></b>
+<h3>Recent Projects</h3> 
+<ul> <li> 🚀 <b><a href="https://productprice-iligan.vercel.app/">Budget Buddy</a> - <a href="https://github.com/KishonShrill/iliganproductprice">Github</a></b>
 
 <i>A web app that lists the products and their prices, where they are available and to look out for your expenses while going out for a shopping spree.</i> </li>
 
@@ -45,7 +41,7 @@ When I'm not writing code, you can usually find me deep in the trenches of my ho
 
 </ul> 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">~> Connect with me <~</h3>
 <p align="right">
     <a href="https://codepen.io/kishonshrill" target="blank">
         <img 
@@ -79,9 +75,6 @@ When I'm not writing code, you can usually find me deep in the trenches of my ho
 
 </td> 
 
-<!-- RIGHT COLUMN: IMAGE/GIF/STATS --> 
-<td width="40%" valign="top" align="center" style="border: none;"> <!-- You can put a personal avatar, a cool coding GIF, or GitHub stats here --> 
-
 <br />
 
 <p align="center">
@@ -89,17 +82,15 @@ When I'm not writing code, you can usually find me deep in the trenches of my ho
         <img 
             alt="Kishon Shrills's Github Stats" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KishonShrill&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-            height="192px"/>
+            height="165px"/>
     </a>
     <a href="https://github.com/KishonShrill">
         <img 
             alt="Kishon Shrills's Top Languages" 
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KishonShrill&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-            height="192px"/>
+            height="165px"/>
     </a>
 </p>
-
-</td> </tr> </table>
 
 <!-- MY STUFF / TECH STACK SECTION -->
 
@@ -131,5 +122,15 @@ I spend an unreasonable amount of time customizing my workflow. Here is the gear
 Curious about my configs? I keep them all synced up and heavily documented (mostly). 👉 [**Check out my Dotfiles repository here!**](https://github.com/KishonShrill/personal-configs)
 
 <!-- FOOTER / GIF -->
-<div align="center"> <p>「 <i>Thanks for stopping by!</i> 」</p> <img src="https://raw.githubusercontent.com/KishonShrill/KishonShrill/refs/heads/main/raging-campfire.gif" alt="Pixel Art Campfire GIF" /> </div>
+<div align="center"> <p>「 <i>Thanks for stopping by!</i> 」</p>  </div>
+
+---
+
+<p align="center">
+    <a href="https://app.daily.dev/kishon">
+        <img 
+            src="https://api.daily.dev/devcards/v2/bbVQVvF0P.png?type=wide&r=rz8" 
+            alt="Kishon_Shrill's Dev Card"/>
+    </a>
+</p>
 
