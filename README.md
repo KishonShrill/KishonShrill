@@ -1,8 +1,11 @@
 <!-- ABOUT ME SECTION -->
-<h1>## 👾 Who am I?</h1>
+<h1>Who am I?</h1>
 <p align="center" width="300px">
-    <p>Hey there! 👋 I'm <b>KishonShrill</b>, a <b>Full Stack Developer / Tinkerer / Hobbyist</b> who loves breaking things just to learn how to put them back together.</p>
-    <p>When I'm not writing code, you can usually find me deep in the trenches of my homelab. I'm a huge fan of <b>self-hosting</b> my own services (because why rely on the cloud when you can own your data?) and I daily-drive <b>Linux</b> on both my desktop and laptop rig. 🐧💻</p>
+    <p>Hey there! 👋 I'm <b>KishonShrill</b>, someone who loves breaking things just to learn how to put them back together.</p>
+        <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&size=32&duration=2000&pause=1000&center=true&width=435&lines=Computer+Science;Hobbyist;Nerd;Tinkerer" alt="Typing SVG" /></a></p>
+
+<p>When I'm not writing code, you can usually find me deep in the trenches of my homelab. I'm a huge fan of <b>self-hosting</b> my own services (because why rely on the cloud when you can own your data?) and I daily-drive <b>Linux</b> on both my desktop and laptop rig. 🐧💻</p>
 </p>
 
 <p align="center">
@@ -59,7 +62,7 @@
     </a>
     <a href="https://linkedin.com/in/chriscent-louis-june-pingol" target="blank">
         <img 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+            src="https://skillicons.dev/icons?i=linkedin" 
             alt="chriscent-louis-june-pingol" 
             height="30" 
             width="40" />
@@ -73,7 +76,19 @@
     </a>
 </p>
 
-</td> 
+<h3 align="center">Things I use for work</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bash,postman,docker,mongodb,github,neovim,py,fastapi,git&perline=7" />
+  </a>
+</p>
+
+<h3 align="center">Things I use as a hobby</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,discord,blender,cloudflare,figma,linux,obsidian" />
+  </a>
+</p>
 
 <br />
 
