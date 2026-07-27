@@ -1,7 +1,7 @@
 <!-- ABOUT ME SECTION -->
-<h1>Who am I?</h1>
+<h1>Hey 👋, I'm KishonShrill</h1>
 <p align="center" width="300px">
-    <p>Hey there! 👋 I'm <b>KishonShrill</b>, someone who loves breaking things just to learn how to put them back together.</p>
+    <p>someone who loves breaking things just to learn how to put them back together.</p>
         <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&size=32&duration=2000&pause=1000&center=true&width=435&lines=Computer+Science;Hobbyist;Nerd;Tinkerer" alt="Typing SVG" /></a></p>
 
@@ -34,12 +34,18 @@
 ## 🛠️ What I'm Working On
 
 <h3>Recent Projects</h3> 
-<ul> <li> 🚀 <b><a href="https://productprice-iligan.vercel.app/">Budget Buddy</a> - <a href="https://github.com/KishonShrill/iliganproductprice">Github</a></b>
+<ul> 
+    
+<li> ⭐ <b><a href="https://betteriligancity.org/">BetterIliganCity.org</a> - <a href="https://github.com/KishonShrill/BetterIligan">Github</a></b>
+    
+<i>is a volunteer-led civic tech platform dedicated to making Iligan City's government services, public data, and local legislation more transparent and accessible to its citizens.</i> </li>
 
+<li> 🚀 <b><a href="https://productprice-iligan.vercel.app/">Budget Buddy</a> - <a href="https://github.com/KishonShrill/iliganproductprice">Github</a></b>
+    
 <i>A web app that lists the products and their prices, where they are available and to look out for your expenses while going out for a shopping spree.</i> </li>
 
 <li> 🌐 <b><a href="https://github.com/KishonShrill/online-inventory-system">Online Inventory System (Github)</a></b>
-
+    
 <i>An online inventory for your gadgets with QR code scanning to ease the trouble of typing the item codes. (currently on development)</i> </li>
 
 </ul> 
@@ -79,14 +85,14 @@
 <h3 align="center">Things I use for work</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bash,postman,docker,mongodb,github,neovim,py,fastapi,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,bash,postman,cloudflare,docker,mongodb,github,neovim,py,fastapi,git&perline=7" />
   </a>
 </p>
 
 <h3 align="center">Things I use as a hobby</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,discord,blender,cloudflare,figma,linux,obsidian" />
+    <img src="https://skillicons.dev/icons?i=docker,discord,blender,figma,linux,obsidian" />
   </a>
 </p>
 
@@ -115,9 +121,8 @@ I spend an unreasonable amount of time customizing my workflow. Here is the gear
 
 ### 💻 Operating Systems
 
-<!-- Replace with the OS you actually use! -->
+<img alt="Fedora package" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/250px-Fedora_icon_%282021%29.svg.png"> <img alt="CachyOS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/120px-CachyOS_Logo.svg.png">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arch%2520Linux-1793D1%3Fstyle%3Dfor-the-badge%26logo%3Darch-linux%26logoColor%3Dwhite" alt="Fedora"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Debian-A81D33%3Fstyle%3Dfor-the-badge%26logo%3Ddebian%26logoColor%3Dwhite" alt="Zorin OS" />
 
 ### 🧰 Daily Drivers
 
